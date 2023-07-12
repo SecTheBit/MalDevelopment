@@ -35,3 +35,8 @@ Coming Soon !!
 
 https://github.com/SecTheBit/MalDevelopment/assets/46895441/acd7e8f2-3dd4-4b5c-bc3d-d0890923a108
 
+### Challenges
+
+- On Executing the Exe for Second Time, you have to kill the process through process Hacker.
+- Process is running even after closing it.
+
